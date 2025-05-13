@@ -1,8 +1,8 @@
-# 🛍️ Lojinha Artesanal - Avaliação 2 | Desenvolvimento Web II
+# 🛍️ Sistema Loja - Avaliação 2 | Desenvolvimento Web II
 
 Este projeto foi desenvolvido como parte da **Segunda Avaliação da disciplina Desenvolvimento Web II** do curso de Desenvolvimento de Sisitemas Multiplataforma na **Fatec Araras** (2º semestre de 2025).
 
-O sistema simula uma **lojinha virtual artesanal**, onde o(a) lojista pode cadastrar, visualizar e remover produtos, mantendo o catálogo sempre atualizado. O acesso às funcionalidades só é possível após autenticação do usuário.
+O sistema simula uma **lojinha virtual**, onde o(a) lojista pode cadastrar, visualizar e remover produtos, mantendo o catálogo sempre atualizado. O acesso às funcionalidades só é possível após autenticação do usuário.
 
 ---
 
@@ -27,7 +27,7 @@ O sistema simula uma **lojinha virtual artesanal**, onde o(a) lojista pode cadas
 ## 📁 Estrutura do Projeto
 
 ```
-📂 /lojinha
+📂 /code
 │
 ├── 📄 index.php              → Página de login
 ├── 📄 home.php               → Menu principal após login
@@ -81,7 +81,7 @@ O arquivo `loja.sql` deve ser importado no MySQL. Ele cria o banco `artesanato_d
 4. Acesse via navegador:
 
    ```
-   http://localhost/lojinha/index.php
+   http://localhost/code/index.php
    ```
 
 ---
