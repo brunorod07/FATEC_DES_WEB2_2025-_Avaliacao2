@@ -71,7 +71,7 @@ O arquivo `loja.sql` deve ser importado no MySQL. Ele cria o banco `artesanato_d
 1. Clone o repositório em seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/FATEC_DES_WEB2_2025_Avaliacao2.git
+   git clone https://github.com/brunorod07/FATEC_DES_WEB2_2025-_Avaliacao2.git
    ```
 
 2. Inicie o Apache e MySQL via XAMPP.
