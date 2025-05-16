@@ -97,7 +97,7 @@ O arquivo `loja.sql` deve ser importado no MySQL. Ele cria o banco `artesanato_d
 ## ✍️ Autor
 
 **Bruno Eduardo Rodrigues**
-Aluno(a) da **Fatec Araras - Sistemas para Internet**
+Aluno da **Fatec Araras - Sistemas para Internet**
 Disciplina: **Desenvolvimento Web II**
 Professor: **Orlando Saraiva Jr.**
 
